@@ -1,0 +1,33 @@
+{
+  "runtime": {
+    "consecutive_failures": 0,
+    "desired_status": "stopped",
+    "failure_count": 0,
+    "heartbeat_at": null,
+    "hostname": null,
+    "in_progress_tick": null,
+    "last_completed_tick": 316,
+    "last_error": null,
+    "last_tick_at": "2026-11-14T17:47:29.279+00:00",
+    "last_tick_duration": 0.19536371599999924,
+    "lease_active": false,
+    "lease_expires_at": null,
+    "lease_seconds": 30.0,
+    "live_replay_path": "viewer/public/replays/live.json",
+    "owner_id": null,
+    "pid": null,
+    "recovery_count": 0,
+    "restart_count": 2,
+    "started_at": "2026-11-14T18:12:26.960+00:00",
+    "status": "stopped",
+    "stopped_at": "2026-11-14T18:12:30.257+00:00",
+    "tick_in_progress": false,
+    "tick_seconds": 3600.0,
+    "total_ticks": 316,
+    "universe_id": "universe-genesis",
+    "universe_tick": 316,
+    "updated_at": "2026-11-14T18:12:30.257+00:00"
+  },
+  "schema": "om-niscient.runtime-status",
+  "version": 1
+}
